@@ -1,4 +1,4 @@
-## For running this project you need to do some work
+## For running this project
 
 #### Visual Sutdio
 
